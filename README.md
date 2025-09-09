@@ -36,7 +36,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo.
 
 3.  Execute o script do jogo:
     ```bash
-    python Projeto Pedra, Papel e Tesoura.py
+    python Pedra_Papel_Tesoura.py
     ```
 
 4.  Pronto! Siga as instruções no terminal e divirta-se.
